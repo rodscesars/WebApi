@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Alimentação",
+      "title": "Coxinha de frango",
+      "description": "Uma coxinha de frango catupiry empanada com farinha panko e frita em óleo",
+      "image": "",
+      "price": 3.5,
+      "quantity": 10,
+      "status": 1
+    }
+  ]
+}
